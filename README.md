@@ -13,4 +13,4 @@
 - You can create as many folders as you want 
 <img src="3.png">
 - Your files are secured by the Firebase firewall system as those files are saved in firebase.
-- You can access your files from anywhere just by logging into the website. completely
+- You can access your files from anywhere just by logging into the website.
