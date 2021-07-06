@@ -11,6 +11,7 @@
  
 - You can upload your files by creating your folders. It is entirely customizable.
 <img src="2.png">
+
 - You can create as many folders as you want 
 <img src="3.png">
 
